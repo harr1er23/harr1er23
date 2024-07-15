@@ -16,7 +16,7 @@
 </div>
 
 <div id="views" align="center">
-![](https://komarev.com/ghpvc/?username=harr1er23&color=blue&style=for-the-badge&label=Profile+views)
+    <img src="https://komarev.com/ghpvc/?username=harr1er23&color=blue&style=for-the-badge&label=Profile+views"/>
 </div>
 
 ### About me
