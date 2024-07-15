@@ -15,6 +15,8 @@
     </a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=harr1er23&color=blue&style=for-the-badge&label=Profile+views)
+
 ### About me
 
 - I'm currently working in LLC "MasterTorg"
