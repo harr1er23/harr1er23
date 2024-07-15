@@ -43,14 +43,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" title="tailwind"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="git"/>&nbsp;
 
-### My statts
+### My stats
 
 <div id="stats" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harr1er23&theme=github_dark"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harr1er23&theme=github_dark"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harr1er23&theme=github_dark"/>
 </div>
-
-<!--
-- ⚡ Fun fact: ...
--->
