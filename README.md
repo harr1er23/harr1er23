@@ -19,6 +19,10 @@
     <img src="https://komarev.com/ghpvc/?username=harr1er23&color=blue&style=for-the-badge&label=Profile+views"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ### About me
 
 - I'm currently working in LLC "MasterTorg"
