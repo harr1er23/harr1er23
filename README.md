@@ -25,8 +25,9 @@
 
 ### About me
 
+- I am the founder and developer of a startup in the field of psychology: [MCH](https://mindcrafthub.vercel.app/)
 - I'm currently working in LLC "MasterTorg"
-- I'm currently learning **React.js, Next.js, Vue.js**
+- I'm currently learning **Next.js**
 - Know about my experience [CV]()
 - Reach me by [tg](https://t.me/harr1er), [email](harr1er.work23@gmail.com)
 
