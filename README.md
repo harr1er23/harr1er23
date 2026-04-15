@@ -32,6 +32,7 @@
 - Reach me by [tg](https://t.me/harr1er), [email](harr1er.work23@gmail.com)
 
 ### Languages and tools
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="js"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" title="ts"/>&nbsp;
@@ -48,6 +49,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" title="tailwind"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="git"/>&nbsp;
 </p>
+
 ### My stats
 
 <div id="stats" align="center">
